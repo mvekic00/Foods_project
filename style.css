@@ -425,6 +425,12 @@ html{
 
 
 /*Responsive*/
+@media(min-width:1850px){
+    html{
+        font-size:80%
+    }
+}
+
 @media(max-width:1200px){
     html{
         font-size:50%;
